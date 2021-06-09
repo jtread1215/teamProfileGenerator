@@ -1,0 +1,1 @@
+const Prospect = require("../lib/prospect");
