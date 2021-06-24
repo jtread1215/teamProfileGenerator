@@ -13,7 +13,8 @@ The technologies used for this app are as follows:
     JavaScript
 
 # Visuals
-
+Generated Team after answering prompts.
+![image](https://user-images.githubusercontent.com/77247419/123343638-23218080-d520-11eb-87d1-dfbae8b4fdc5.png)
 
 
 # Links
