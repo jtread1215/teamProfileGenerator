@@ -17,5 +17,6 @@ The technologies used for this app are as follows:
 
 
 # Links
-Screencastify:
+Screencastify: https://drive.google.com/file/d/1QRfn7kTP2WW-a4HkAjovYdPY7F2HU4OH/view
+
 Github:
