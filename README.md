@@ -5,6 +5,7 @@ This application is a questionare template that allows you to make a Team listed
 
 # Technologies
 The technologies used for this app are as follows:
+
     NodeJS
     NPM Packages - Inquirer and Jest
     HTML
