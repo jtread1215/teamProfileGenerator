@@ -19,4 +19,4 @@ The technologies used for this app are as follows:
 # Links
 Screencastify: https://drive.google.com/file/d/1QRfn7kTP2WW-a4HkAjovYdPY7F2HU4OH/view
 
-Github:
+Github: https://jtread1215.github.io/teamProfileGenerator/
