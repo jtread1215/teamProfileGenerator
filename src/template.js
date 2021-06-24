@@ -32,7 +32,7 @@ const createTeam = team => {
         <ul class="list-group">
             <li class="list-group-item">ID: ${engineer.addId()}</li>
             <li class="list-group-item">Email: <a href="mailto:${engineer.addEmail()}">${engineer.addEmail()}</a></li>
-            <li class="list-group-item">GitHub: <a href="https://github.com/${engineer.getGithub()}" target="_blank" rel="noopener noreferrer">${engineer.getGithub()}</a></li>
+            <li class="list-group-item">GitHub: <a href="https://github.com/${engineer.addGithub()}" target="_blank" rel="noopener noreferrer">${engineer.addGithub()}</a></li>
         </ul>
     </div>
 </div>
@@ -51,7 +51,7 @@ const createTeam = team => {
         <ul class="list-group">
             <li class="list-group-item">ID: ${intern.addId()}</li>
             <li class="list-group-item">Email: <a href="mailto:${intern.addEmail()}">${intern.addEmail()}</a></li>
-            <li class="list-group-item">School: ${intern.getSchool()}</li>
+            <li class="list-group-item">School: ${intern.addSchool()}</li>
         </ul>
     </div>
 </div>
